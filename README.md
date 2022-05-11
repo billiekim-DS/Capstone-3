@@ -1,1 +1,3 @@
-# Capstone-3
+# Solar Power Prediction Model
+
+#### *IN PROGRESS*
