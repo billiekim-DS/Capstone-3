@@ -1,3 +1,3 @@
-# Solar Power Prediction Model
+# Solar Power Model
 
 #### *IN PROGRESS*
